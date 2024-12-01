@@ -1,1 +1,1 @@
-Scaffold-DbContext "Data Source=Oanh\SQLEXPRESS;Initial Catalog=QLBanHang;Integrated Security=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+Scaffold-DbContext "..." Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
